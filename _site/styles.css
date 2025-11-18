@@ -1,4 +1,275 @@
-/* css styles */
+/* University of Manchester Responsible Metrics Module Styles */
+
+/* CSS Variables for UoM Brand Colors */
+:root {
+  --uom-purple: #660099;
+  --uom-yellow: #FFCC33;
+  --uom-grey: #999999;
+  --uom-light-grey: #f8f9fa;
+  --text-color: #333;
+  --link-color: var(--uom-purple);
+  --link-hover: var(--uom-yellow);
+}
+
+/* Base Styles */
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.7;
+  color: var(--text-color);
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navigation */
+.navbar {
+  background-color: var(--uom-purple) !important;
+  border-bottom: 3px solid var(--uom-yellow);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: white !important;
+}
+
+.navbar-nav .nav-link {
+  color: white !important;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--uom-yellow) !important;
+}
+
 .navbar-logo {
-  max-height: 150px;
+  max-height: 60px;
+  width: auto;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--uom-purple);
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: 2.5rem;
+  border-bottom: 2px solid var(--uom-yellow);
+  padding-bottom: 0.3em;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+/* Content Layout */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.page-header {
+  background: linear-gradient(135deg, var(--uom-purple), var(--uom-yellow));
+  color: white;
+  padding: 3rem 0;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.page-header h1 {
+  color: white;
+  border-bottom: none;
+  margin-bottom: 0.5rem;
+}
+
+.page-header p {
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+/* Cards and Sections */
+.card {
+  border: 1px solid var(--uom-grey);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  margin-bottom: 1.5rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+}
+
+.card-header {
+  background-color: var(--uom-light-grey);
+  border-bottom: 1px solid var(--uom-grey);
+  font-weight: 600;
+  color: var(--uom-purple);
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+
+/* Buttons */
+.btn {
+  border-radius: 6px;
+  font-weight: 500;
+  padding: 0.5rem 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.btn-primary {
+  background-color: var(--uom-purple);
+  border-color: var(--uom-purple);
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: var(--uom-yellow);
+  border-color: var(--uom-yellow);
+  color: var(--text-color);
+  transform: translateY(-1px);
+}
+
+.btn-outline-primary {
+  color: var(--uom-purple);
+  border-color: var(--uom-purple);
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--uom-purple);
+  border-color: var(--uom-purple);
+  color: white;
+}
+
+/* Lists */
+ul, ol {
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* Code blocks */
+code {
+  background-color: var(--uom-light-grey);
+  color: var(--uom-purple);
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+pre {
+  background-color: var(--uom-light-grey);
+  border: 1px solid var(--uom-grey);
+  border-radius: 6px;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+}
+
+th, td {
+  border: 1px solid var(--uom-grey);
+  padding: 0.75rem;
+  text-align: left;
+}
+
+th {
+  background-color: var(--uom-light-grey);
+  font-weight: 600;
+  color: var(--uom-purple);
+}
+
+/* Footer */
+footer {
+  background-color: var(--uom-purple);
+  color: white;
+  text-align: center;
+  padding: 2rem 0;
+  margin-top: 3rem;
+}
+
+footer a {
+  color: var(--uom-yellow);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .page-header {
+    padding: 2rem 1rem;
+  }
+
+  .page-header h1 {
+    font-size: 2rem;
+  }
+
+  .container {
+    padding: 0 15px;
+  }
+
+  .navbar-logo {
+    max-height: 40px;
+  }
+}
+
+/* Custom Classes */
+.highlight-box {
+  background-color: var(--uom-light-grey);
+  border-left: 4px solid var(--uom-yellow);
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+.callout {
+  border: 1px solid var(--uom-grey);
+  border-radius: 6px;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+.callout-note {
+  border-left-color: var(--uom-purple);
+}
+
+.callout-warning {
+  border-left-color: var(--uom-yellow);
+  background-color: rgba(255, 204, 51, 0.1);
 }
