@@ -43,6 +43,15 @@ Using more than one source of metrics is a good practice as systems index at dif
 
 Contact the [Office for Open Research](https://www.openresearch.manchester.ac.uk/contact/){target="_blank"} for support, with as much notice as possible. 
 
+### University of Manchester Resources for Metrics
+
+The University of Manchester provides extensive support for understanding and using research metrics responsibly:
+
+- **[Library Guide on Responsible Metrics](https://subjects.library.manchester.ac.uk/research-metrics/responsible-metrics){target="_blank"}**: Comprehensive guidance on frameworks, tools, and best practices
+- **[My Research Essentials Training](https://www.education.library.manchester.ac.uk/mre/citation-analysis/#){target="_blank"}**: Online resource for using citation analysis to measure research impact
+- **[Medium Series on Responsible Metrics](https://medium.com/research-metrics-matters/part-1-introduction-to-responsible-research-metrics-part-1-4fbe385dd0c4){target="_blank"}**: Three-part introduction covering definitions, usage, and risks
+- **[Office for Open Research](https://www.openresearch.manchester.ac.uk/contact/){target="_blank"}**: Contact for bespoke consultancy, citation analysis, and research intelligence tools
+
 ### **Limitations of Metrics** 
 
 -   Not all research outputs will be indexed
@@ -50,6 +59,8 @@ Contact the [Office for Open Research](https://www.openresearch.manchester.ac.uk
     -   STEM journals are more likely to be indexed than Arts, Humanities and Social Sciences.
     -   Smaller publishers may not index their journals.
     -   It can take up to six months from publication for your article to be indexed (sometimes even longer!).
+
+At the University of Manchester, we address some limitations through field-normalized citation metrics and percentile rankings, which account for disciplinary differences in citation practices.
     -   Content may have been wrongly affiliated to you or your content wrongly affiliated to someone else.
 -   Citations take a long time to accumulate.
 -   There is no way of knowing if citations are positive or negative from metrics. Note, some services do perform sentiment analysis on citations.

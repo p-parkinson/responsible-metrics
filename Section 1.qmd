@@ -73,11 +73,25 @@ A number of guidelines have been published which look to shape our approach to r
 
 [**DORA (the Declaration of Research Assessment)**](https://sfdora.org/read/){target="_blank"} 
 
-DORA is a set of principles that were published in 2012. They are designed to ensure that the quality and impact of scientific outputs is “measured accurately and evaluated wisely”.
+DORA is a set of principles that were published in 2012. They are designed to ensure that the quality and impact of scientific outputs is "measured accurately and evaluated wisely".
 
-DORA focuses particularly on the use of journal-based metrics. Its key tenet is to “do not use journal-based metrics, such as Journal Impact Factors (JIFs), as surrogate measures of the quality of individual research articles, to assess an individual scientist’s contributions, or in hiring, promotion, or funding decisions”. 
+DORA focuses particularly on the use of journal-based metrics. Its key tenet is to "do not use journal-based metrics, such as Journal Impact Factors (JIFs), as surrogate measures of the quality of individual research articles, to assess an individual scientist's contributions, or in hiring, promotion, or funding decisions". 
 
-DORA also supports the idea that research should be assessed on its own merits and not influenced by the reputation of the journal in which it has been published. 
+DORA also supports the idea that research should be assessed on its own merits and not influenced by the reputation of the journal in which it has been published.
+
+The University of Manchester was one of the first UK signatories to DORA, demonstrating our commitment to using metrics responsibly.
+
+[**The Metric Tide**](https://rori.figshare.com/articles/report/Harnessing_the_Metric_Tide/21701624?file=38515103){target="_blank"}
+
+The Metric Tide is a 2015 UK report that outlines five principles for responsible metrics use in research assessment:
+
+- **Robustness**: Basing metrics on the best possible data in terms of accuracy and scope
+- **Humility**: Recognising that quantitative evaluation should support, not supplant, qualitative expert assessment
+- **Transparency**: Keeping data collection and analytical processes open and verifiable
+- **Diversity**: Accounting for variation by field and supporting diverse research paths
+- **Reflexivity**: Regularly reviewing and updating practices in light of new evidence
+
+The University of Manchester endorses these principles as part of our responsible metrics approach.
 
 The University of Southampton is a signatory of DORA.
 

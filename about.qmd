@@ -2,28 +2,44 @@
 title: "About"
 ---
 
-This is version 1.1 of the Responsible Research Metrics Self-Study module. The module was written by the Bibliometrics Team at the University of Southampton Library in 2024 and version 1 released in February 2025, update to version 1.1 made in October 2025
+This is the University of Manchester adaptation of the Responsible Research Metrics Self-Study module. The original module was written by the Bibliometrics Team at the University of Southampton Library in 2024 (version 1.0 released February 2025, version 1.1 October 2025).
 
-The module team is;
+The original module team:
+- Kate Lapage
+- Clare Hemmings
+- Lorrayne Smith
 
--   Kate Lapage
--   Clare Hemmings
--   Lorrayne Smith
+This version has been adapted for the University of Manchester by Patrick Parkinson (patrick.parkinson@manchester.ac.uk) to reflect our institutional policies and resources.
 
-The module's foundations are taken from the university's Responsible Research Policy. For help, feedback or suggestions please contact the team via eprints\@soton.ac.uk.
+## University of Manchester's Commitment
 
-Links provided to sites external to the University of Southampton were accurate at the time of release.
+The University of Manchester was one of the first UK signatories to the San Francisco Declaration on Research Assessment (DORA) and endorses the five principles from The Metric Tide for responsible metrics use.
 
-This module is shared under a CC BY license so that it may be adapted to suit other institutions' policies. We ask that this page remains with further information by the adapting organisation added beneath. The module has been developed in R using Quarto and is available on GitHub for remixing <https://github.com/UniSotonLibrary/responsible-metrics/>
+For more information about our approach:
+- [Responsible Metrics Statement](https://documents.manchester.ac.uk/DocuInfo.aspx?DocID=75142)
+- [Office for Open Research](https://www.openresearch.manchester.ac.uk/)
+- [Library Guide on Responsible Metrics](https://subjects.library.manchester.ac.uk/research-metrics/responsible-metrics)
 
-Update 1.1 October 2025
+For help, feedback or suggestions, please contact Patrick Parkinson at patrick.parkinson@manchester.ac.uk.
 
-Section 3;- 	
--   Updates to the Way’s to use metrics & examples section to improve clarity 
--   Adding a link to a test your knowledge quiz
-Section 4;-	Adding a link to a test your knowledge quiz
+Links provided to sites external to the University of Manchester were accurate at the time of adaptation (November 2025).
 
-This module has been adapted for the University of Manchester by Patrick Parkinson (patrick.parkinson@manchester.ac.uk).
+This module is shared under a CC BY license. The original is available on GitHub at <https://github.com/UniSotonLibrary/responsible-metrics/> for reference.
+
+## Update History
+
+**Manchester Adaptation (November 2025)**
+- Updated all content to reflect University of Manchester policies and resources
+- Added interactive quiz functionality
+- Enhanced styling with UoM branding
+- Integrated local support contacts and training resources
+
+**Original Update 1.1 (October 2025)**
+- Updates to Section 3 for clarity
+- Added test quiz links
+
+**Original Version 1.0 (February 2025)**
+- Initial release
 
 
 

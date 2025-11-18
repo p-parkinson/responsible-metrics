@@ -64,6 +64,18 @@ What, if any, assumptions have you made about your data to be able to proceed wi
 
 Be clear about the limitations of your data when you record how you have used it.
 
+### University of Manchester's Approach to Metrics in Assessment
+
+At the University of Manchester, metrics are used responsibly in research assessment:
+
+- **Citation Data**: We use field-normalized citation percentiles for outputs from the preceding five years to track research performance and address disciplinary differences
+- **Aggregate Level**: Metrics inform university-wide KPIs and discipline/School-level performance tracking
+- **Individual Level**: Citation data is used judiciously, combined with peer review and qualitative indicators, recognizing limitations for underrepresented groups
+- **Journal Metrics**: Not used for individual researcher assessments, but may inform publication strategies
+- **Training Available**: Access our [responsible metrics guidance](https://subjects.library.manchester.ac.uk/research-metrics/responsible-metrics){target="_blank"} and contact the [Office for Open Research](https://www.openresearch.manchester.ac.uk/contact/){target="_blank"} for support
+
+This ensures fair, context-aware evaluation that supports diverse research contributions and avoids bias.
+
 ### **Example Question**
 
 So, how might we go about responsibly answering the question in papers in the same discipline or by the same author? Let us take this question.

@@ -30,7 +30,7 @@ If you need metrics to help you in your decision-making process there are severa
 -   Define what you mean by ‘best’ or ‘top’ publication(s) so researchers can focus their statements/evidence and ensure that you are comparing the same thing.
 -   Specify a particular source to use or a specific metrics to use.
     -   Some metrics are software/database specific, some of which are available via subscription only and therefore may not be available to all candidates.
--   Ask the metrics service to provide metrics for the group of candidates so that everyone will be assessed in the same way at the same time. Please contact us at [eprints\@soton.ac.uk](mailto:eprints@soton.ac.uk) to discuss.
+-   Ask the metrics service to provide metrics for the group of candidates so that everyone will be assessed in the same way at the same time. Please contact us at patrick.parkinson\@manchester.ac.uk to discuss.
 
 ### **Limitations of metrics and things to be aware of**
 
@@ -48,6 +48,17 @@ If you need metrics to help you in your decision-making process there are severa
 -   Different software/databases count things in different ways so it may lead to results you cannot compare.
 -   Researchers may use flawed metrics such as h-index, as a proxy of quality and not a true reflection of contribution.
 -   Researchers may use metrics incorrectly or use the wrong type of metric for the assessment they are making; for example using a journal metric to infer the quality onto their article.
+
+### University of Manchester's Policy on Assessing People Using Metrics
+
+The University of Manchester is committed to fair assessment practices:
+
+- **No Journal-Based Metrics for Individuals**: As a DORA signatory, we do not use Journal Impact Factors or similar metrics to assess individual researchers' contributions, hiring, promotion, or funding decisions
+- **Judicious Use of Citation Data**: Individual-level citation metrics are used sparingly, only as one part of a broader evaluation including peer review and qualitative assessment
+- **Context-Aware Evaluation**: We recognize that citation practices vary by discipline and can disadvantage underrepresented groups (women, minorities, non-English language publications)
+- **Support for Assessors**: Contact the [Office for Open Research](https://www.openresearch.manchester.ac.uk/contact/){target="_blank"} for guidance on responsible assessment practices
+
+This ensures that decisions about recruitment, promotion, and funding are based on comprehensive evaluation rather than flawed metrics.
 
 The key to using metrics in an assessment of people is to be consistent and fair. If you are not a specialist in a subject area you may not have the contextual knowledge to know if the citation volume given is high, low or expected. In some disciplines 15 citations is very high whereas in others it is more typical.
 
