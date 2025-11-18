@@ -1,6 +1,8 @@
 ---
 title: "Section 3"
 format: html
+include-after-body: scripts/quiz.js
+css: styles/quiz.css
 ---
 
 ## **Section 3 -** Using metrics in personal applications and evaluations
@@ -110,6 +112,14 @@ Read the [University responsible metrics policy](https://documents.manchester.ac
 Visit our [Research Indicators](https://www.openresearch.manchester.ac.uk/research-services/research-indicators/){target="_blank"}
 
 Specific question? Contact us at patrick.parkinson\@manchester.ac.uk
+
+### Test Your Knowledge
+
+<div class="quiz" data-quiz="quizzes/test_your_knowledge.json"></div>
+
+<noscript>
+<p>This quiz requires JavaScript. For an alternative, please contact us at patrick.parkinson@manchester.ac.uk</p>
+</noscript>
 
 Further Resources external to the University:
 

@@ -8,6 +8,10 @@ project:
     - Section 3.qmd
     - Section 4.qmd
     - about.qmd
+  resources:
+    - quizzes/
+    - scripts/
+    - styles/quiz.css
 
 website:
   title: "Responsible Research Metrics Self Study Module"
