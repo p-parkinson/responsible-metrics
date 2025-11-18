@@ -8,5 +8,10 @@
 
 # Common OS/editor files
 .DS_Store
+
+# Generated site
+_site/
 Thumbs.db
 *.swp
+
+**/*.quarto_ipynb
