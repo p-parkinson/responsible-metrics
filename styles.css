@@ -2,3 +2,7 @@
 .navbar-logo {
   max-height: 150px;
 }
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}

@@ -1,0 +1,19 @@
+/* Basic quiz styles */
+.rm-quiz-root { margin: 1.5rem 0; }
+.quiz-header { margin-bottom: 1rem; }
+.quiz-question { padding: .65rem; border: 1px solid rgba(0,0,0,0.06); margin-bottom: .8rem; border-radius: 6px; }
+.quiz-question-title { font-weight: 600; }
+.quiz-option { display: flex; align-items: center; gap: 0.6rem; margin: .4rem 0; }
+.quiz-option input[type=radio], .quiz-option input[type=checkbox] { width: 1.25rem; height: 1.25rem; }
+.quiz-feedback { display: none; font-size: 0.9rem; margin-left: 1.5rem; color: #333; }
+.quiz-explain { display: none; margin-top: .4rem; font-style: italic; color: #333; }
+.quiz-results { margin-top: 1rem; padding: .75rem; border-left: 3px solid #0d6efd; background: rgba(13,110,253,0.04); }
+.quiz-correct { color: #0d6efd; font-weight: 600; }
+.quiz-incorrect { color: #dc3545; font-weight: 600; }
+.quiz-actions { display:flex; gap:.5rem; align-items: center; margin-top: .75rem; }
+.quiz-per-question-score { font-size: 0.95rem; margin: .25rem 0; }
+
+/* Responsive small tweaks */
+@media (max-width: 480px){
+  .quiz-option { gap: .4rem; }
+}
