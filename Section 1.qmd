@@ -93,8 +93,6 @@ The Metric Tide is a 2015 UK report that outlines five principles for responsibl
 
 The University of Manchester endorses these principles as part of our responsible metrics approach.
 
-The University of Southampton is a signatory of DORA.
-
 [**CoARA (Coalition of Advancing Research Assessment)**](https://coara.eu/app/uploads/2022/09/2022_07_19_rra_agreement_final.pdf){target="_blank"} 
 
 The CoARA initiative was launched in January 2022 and builds on DORA and other initiatives. Its core principle is "that in the assessment of research, researchers and research organisations needs to recognise that diverse outputs, practices and activities contribute to the quality and impact of research. This requires basing assessment primarily on qualitative judgement for which peer review is central, supported by the responsible use of quantitative indicators" (metrics). 
