@@ -1,0 +1,131 @@
+{
+  "title": "Test your knowledge",
+  "description": "A small prototype quiz for Responsible Research Metrics",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multi-select",
+      "text": "When should you use metrics?",
+      "hint": "Select all that apply",
+      "weight": 1,
+      "options": [
+        { "id": "q1o1", "text": "to demonstrate that you publish in top journals", "isCorrect": false, "feedback": "'Top journals' is subjective and can't be used as a proxy for the quality of individual research." },
+        { "id": "q1o2", "text": "to support statements that you make about your research", "isCorrect": true, "feedback": "Good — metrics can help evidence statements if used responsibly." },
+        { "id": "q1o3", "text": "to identify which of your research outputs is generating the most interest and engagement", "isCorrect": true, "feedback": "Yes — metrics such as captures and altmetrics can indicate attention and engagement." },
+        { "id": "q1o4", "text": "as a replacement for expert judgement or qualitative assessment", "isCorrect": false, "feedback": "Incorrect — metrics should not replace qualitative expert judgement." }
+      ],
+      "explainCorrect": "Metrics are useful as evidence, not a replacement for judgement. Use them with transparency and context." 
+    },
+
+    {
+      "id": "q2",
+      "type": "multi-select",
+      "text": "Using more than one type of metric to assess research is considered to be good practice because...",
+      "hint": "Select all that apply",
+      "weight": 1,
+      "options": [
+        { "id": "q2o1", "text": "it reduces the risk of bias", "isCorrect": true, "feedback": "Yes — multiple lenses reduce bias from single indicators." },
+        { "id": "q2o2", "text": "it offers a more robust assessment", "isCorrect": true, "feedback": "Correct — multiple metrics can offer a fuller picture." },
+        { "id": "q2o3", "text": "it means that you don't need to provide qualitative assessment", "isCorrect": false, "feedback": "Wrong — metrics complement qualitative assessment, but don't replace it." }
+      ],
+      "explainCorrect": "Use a combination of indicators alongside qualitative statements for robust assessment." 
+    },
+
+    {
+      "id": "q3",
+      "type": "single-select",
+      "text": "Is this statement true or false: \"a Journal's Impact Factor is an accurate indicator of the quality of someone's research\"?",
+      "weight": 1,
+      "options": [
+        { "id": "q3o1", "text": "true", "isCorrect": false, "feedback": "No — JIF is about the journal, not an individual article or a researcher." },
+        { "id": "q3o2", "text": "false", "isCorrect": true, "feedback": "Correct — impact factor is not an accurate proxy for individual quality." }
+      ],
+      "explainCorrect": "Use article-level metrics and evidence rather than journal-level proxies where assessing a researcher." 
+    },
+
+    {
+      "id": "q4",
+      "type": "single-select",
+      "text": "Which of these is the best description of a normalised metric?",
+      "weight": 1,
+      "options": [
+        { "id": "q4o1", "text": "it measures the online attention and engagement that research outputs receive", "isCorrect": false, "feedback": "This describes altmetrics, not normalisation." },
+        { "id": "q4o2", "text": "it is a simple count of the number of citations a paper has received", "isCorrect": false, "feedback": "This is a citation count rather than a normalised metric." },
+        { "id": "q4o3", "text": "it is based on the highest number of papers produced that have the same number of citations", "isCorrect": false, "feedback": "This is more like h-index; not a normalised metric." },
+        { "id": "q4o4", "text": "A calculation the provider makes that allows for comparison of papers that are different ages and disciplines", "isCorrect": true, "feedback": "Correct — normalised metrics account for age or discipline differences." }
+      ],
+      "explainCorrect": "Normalised metrics (e.g., FWCI) allow fairer comparisons across disciplines and timeframes." 
+    },
+
+    {
+      "id": "q5",
+      "type": "multi-select",
+      "text": "What are some of the principles of metrics?",
+      "hint": "Select all that apply",
+      "weight": 1,
+      "options": [
+        { "id": "q5o1", "text": "Transparency", "isCorrect": true, "feedback": "Yes — being clear about methods, sources and dates is key." },
+        { "id": "q5o2", "text": "Appropriateness", "isCorrect": true, "feedback": "Correct — choose metrics appropriate to your question." },
+        { "id": "q5o3", "text": "Responsible", "isCorrect": false, "feedback": "This is the overarching aim — but principles are transparency, appropriateness, reproducible, equitable, and reassess." },
+        { "id": "q5o4", "text": "Fixed", "isCorrect": false, "feedback": "Metrics change; they aren’t fixed. This is not a principle." }
+      ],
+      "explainCorrect": "Principles include transparency, appropriateness, reproducibility, equity, and continual reassessment." 
+    },
+
+    {
+      "id": "q6",
+      "type": "multi-select",
+      "text": "How could you make this statement better: \"My article has been cited 40 times.\"",
+      "hint": "Select all that apply",
+      "weight": 1,
+      "options": [
+        { "id": "q6o1", "text": "Give the date you took the metric", "isCorrect": true, "feedback": "Yes — metrics are a snapshot; include the date." },
+        { "id": "q6o2", "text": "Give the source you took the metric from", "isCorrect": true, "feedback": "Yes — state where you got the count from (e.g., Scopus)." },
+        { "id": "q6o3", "text": "Give the date my article was published", "isCorrect": true, "feedback": "This is helpful to interpret the citation count." },
+        { "id": "q6o4", "text": "Give a journal metric", "isCorrect": false, "feedback": "Using a journal metric here would be a proxy and not specific to the article." }
+      ],
+      "explainCorrect": "Provide source and date and contextual info so the citation count is reproducible and contextualised." 
+    },
+
+    {
+      "id": "q7",
+      "type": "single-select",
+      "text": "Is this statement true or false: \"citations are always positive and mean everyone agrees with me\"?",
+      "weight": 1,
+      "options": [
+        { "id": "q7o1", "text": "true", "isCorrect": false, "feedback": "No — citations are not necessarily positive; they could indicate disagreement or critique." },
+        { "id": "q7o2", "text": "false", "isCorrect": true, "feedback": "Correct — citations do not always indicate agreement." }
+      ],
+      "explainCorrect": "Citations can be positive, negative, or neutral; additional analysis is needed to understand meaning." 
+    },
+
+    {
+      "id": "q8",
+      "type": "multi-select",
+      "text": "When using metrics you should?",
+      "hint": "Select all that apply",
+      "weight": 1,
+      "options": [
+        { "id": "q8o1", "text": "Take them on face value", "isCorrect": false, "feedback": "Wrong — you should not take metrics without understanding context and calculation." },
+        { "id": "q8o2", "text": "Read what the metric means and how it was calculated", "isCorrect": true, "feedback": "Correct — always verify and understand the metric." },
+        { "id": "q8o3", "text": "Never look at it again", "isCorrect": false, "feedback": "Metrics update over time; re-check when making statements." },
+        { "id": "q8o4", "text": "Provide context", "isCorrect": true, "feedback": "Correct — provide context, sources and dates for metrics." },
+        { "id": "q8o5", "text": "Have a question you want to answer", "isCorrect": true, "feedback": "Correct — metrics should be chosen with a question in mind." }
+      ],
+      "explainCorrect": "Understand, contextualise, and question the metrics — don’t rely on them blindly." 
+    },
+
+    {
+      "id": "q9",
+      "type": "single-select",
+      "text": "Which article has performed better? Article A — Cited 12 times; Article B — Cited 13 times",
+      "weight": 1,
+      "options": [
+        { "id": "q9o1", "text": "Article A", "isCorrect": false, "feedback": "Vague — citation count alone lacks context (age, discipline)." },
+        { "id": "q9o2", "text": "Article B", "isCorrect": false, "feedback": "Vague — citation count alone lacks context (age, discipline)." },
+        { "id": "q9o3", "text": "I'm not sure - I need more info", "isCorrect": true, "feedback": "Correct — you need more information such as age and discipline to judge fairly." }
+      ],
+      "explainCorrect": "Citation counts alone are insufficient; consider context, normalisation and other indicators." 
+    }
+  ]
+}

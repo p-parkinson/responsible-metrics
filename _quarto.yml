@@ -11,15 +11,13 @@ project:
 
 website:
   title: "Responsible Research Metrics Self Study Module"
-  repo-url: "https://github.com/UniSotonLibrary/responsible-metrics/"
+  repo-url: "https://github.com/p-parkinson/responsible-metrics"
   repo-branch: main
   repo-actions:
   - edit
   - issue
-  google-analytics: 
-    tracking-id: "G-KBY6B9VX9V"
   navbar:
-    logo: "images/USH0149.png"
+    logo: "https://assets.manchester.ac.uk/corporate/images/design/logo-university-of-manchester.png"
     left:
       - href: index.qmd
         text: Home
@@ -54,7 +52,7 @@ format:
   html:
     link-external-newwindow: true
     theme: cosmo
-    css: styles.css
+    css: [styles.css, styles/quiz.css]
     toc: true
 
 editor: visual

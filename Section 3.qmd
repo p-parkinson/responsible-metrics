@@ -35,11 +35,11 @@ You can obtain metrics by using an indexing database such as:
 -   [Google Scholar](http://scholar.google.co.uk/citations?view_op=top_venues&hl=en){target="_blank"}.\*
 -   [Open Alex](https://openalex.org/){target="_blank"}.\*
 
-Some of these databases are free to use with an account(\*) and some of these are accessible via University of Southampton subscriptions(^+^). They all have a search function which will allow you to search for your name and/or Researcher ID such as [ORCID](https://support.orcid.org/hc/en-us){target="_blank"} and from there you can review how your research has been indexed by these systems. 
+Some of these databases are free to use with an account(\*) and some of these are accessible via University of Manchester subscriptions(^+^). They all have a search function which will allow you to search for your name and/or Researcher ID such as [ORCID](https://support.orcid.org/hc/en-us){target="_blank"} and from there you can review how your research has been indexed by these systems. 
 
 Using more than one source of metrics is a good practice as systems index at different rate and speeds. 
 
-Contact the [metrics service](https://library.soton.ac.uk/bibliometrics/services){target="_blank"} for support, with as much notice as possible. 
+Contact the [Office for Open Research](https://www.openresearch.manchester.ac.uk/contact/){target="_blank"} for support, with as much notice as possible. 
 
 ### **Limitations of Metrics** 
 
@@ -97,7 +97,7 @@ So, how could you evidence your 'best' publications? 
 
 When using metrics to assess research or during an application you should approach your task with as much rigour and mindfulness of methodology as you would when you undertake your own research practices. The answer you will get will depend on the questions you ask. It should be clear as to how you have come to your conclusions so that your analysis is rigorous and reproducible.
 
-Thank you for taking the time to complete this section of the course. If you need additional help and support with your own applications please contact the [metrics service](https://library.soton.ac.uk/bibliometrics/services){target="_blank"} for support.
+Thank you for taking the time to complete this section of the course. If you need additional help and support with your own applications please contact the [Office for Open Research](https://www.openresearch.manchester.ac.uk/contact/){target="_blank"} for support.
 
 ### **What’s next?**
 
@@ -105,13 +105,11 @@ Complete further sections
 
 -   Section 4 - Assessing people using metrics - Section 4 is an optional part of this course for people who will take part in the assessment of people such as those on recruitment panels
 
-Test your [knowledge](https://forms.office.com/e/2wiFXSSLSG){target="_blank"}
+Read the [University responsible metrics policy](https://documents.manchester.ac.uk/DocuInfo.aspx?DocID=75142){target="_blank"}
 
-Read the [University responsible metrics policy](https://www.southampton.ac.uk/about/governance/regulations-policies/policies/responsible-research-metrics){target="_blank"}
+Visit our [Research Indicators](https://www.openresearch.manchester.ac.uk/research-services/research-indicators/){target="_blank"}
 
-Visit our [Libguide on Metrics](https://library.soton.ac.uk/bibliometrics){target="_blank"}
-
-Specific question? Contact us at eprints\@soton.ac.uk
+Specific question? Contact us at patrick.parkinson\@manchester.ac.uk
 
 Further Resources external to the University:
 
