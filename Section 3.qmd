@@ -1,8 +1,6 @@
 ---
 title: "Section 3"
 format: html
-include-after-body: scripts/quiz.js
-css: styles/quiz.css
 ---
 
 ## **Section 3 -** Using metrics in personal applications and evaluations
@@ -80,37 +78,39 @@ If you use metrics you need to use them responsibly.  There are many different m
 
 Why this is bad – there is no context. It is vague. It is equating the quality of your research with the quality of the journal. 
 
-**Example of good use** 
+**Example of good use**
 
-*\[citation of paper\] is my top performing paper which according to \[source such as Scopus or Google Scholar\] has been cited 150 times. It has been cited by \[policy document\]*  
+*[citation of paper] is my top performing paper which according to [source such as Scopus or Google Scholar] has been cited 150 times. It has been cited by [policy document]*
 
-Why this is better – there is a source identified and there are actual numbers, there is an idea of age of the paper from the citation, and you’ve demonstrated real world impact.  
+Why this is better - there is a source identified and there are actual numbers, there is an idea of age of the paper from the citation, and you've demonstrated real world impact. 
 
 The statement could be made even better by stating the date you checked the number of citations, as metrics accumulate over time. You could use a normalised metric which is gives a fairer assessment rather than a binary count. You could also talk about your impact more. 
 
 **Example of best use**  
 
-*\[citation of paper\] is my top performing paper according to Scopus on \[date you checked\] it has been cited 150 times and has a field-weighted citation index of 4.3 (1 being average). It has been cited by \[policy document\]. Following its publication I have been asked by several news agencies to provide commentary on similar news stories thereby contributing to knowledge exchange and public engagement.*  
+*[citation of paper] is my top performing paper according to Scopus on [date you checked] it has been cited 150 times and has a field-weighted citation index of 4.3 (1 being average). It has been cited by [policy document]. Following its publication I have been asked by several news agencies to provide commentary on similar news stories thereby contributing to knowledge exchange and public engagement.*
 
-Why this is good – You’ve given a source and date for your metrics, you've used multiple metrices and you’ve used a normalised metric which makes for a fairer comparison. You’ve related your article to real world impact and engagement. 
+Why this is good - You've given a source and date for your metrics, you've used multiple metrics and you've used a normalised metric which makes for a fairer comparison. You've related your article to real world impact and engagement.
 
-### **How to – Identifying your 'best' publications** 
+### How to - Identifying your 'best' publications
 
 A common question we see is authors asking for help creating a list of their 'best' research publications. How you quantify best will depend on the context of what you are applying for, your discipline, and what the assessor has asked for.
 
 Some will argue that 'best' means the highest cited, but that automatically puts your newest papers at a disadvantage, as citations take time to accumulate. Some will say 'best' is most impactful which can be harder to prove. If it hasn't been defined for you by the people making the assessment, it is important to state how you have defined best and then use relevant evidence.
 
-So, how could you evidence your 'best' publications? 
+So, how could you evidence your 'best' publications? 
 
--   List of articles and their citation count – this favours your older papers.
--   Normalised metrics such as field-weighted citation index– this gives your newer content a fairer chance against older content.
--   Altmetrics – metrics derived from alternative types of research output, such as citations or acknowledgements on a public-facing website, social media engagement, or attention from the news media are particularly useful when assessing impact.
--   Policy citations – has your research been used in government policy? 
--   Patent citations – has your research been used by someone filing a patent? 
+- List of articles and their citation count - this favours your older papers.
+- Normalised metrics such as field-weighted citation index - this gives your newer content a fairer chance against older content.
+- Altmetrics - metrics derived from alternative types of research output, such as citations or acknowledgements on a public-facing website, social media engagement, or attention from the news media are particularly useful when assessing impact.
+- Policy citations - has your research been used in government policy? 
+- Patent citations - has your research been used by someone filing a patent?
+
+TEST LINE: This should appear in the HTML.
 
 When using metrics to assess research or during an application you should approach your task with as much rigour and mindfulness of methodology as you would when you undertake your own research practices. The answer you will get will depend on the questions you ask. It should be clear as to how you have come to your conclusions so that your analysis is rigorous and reproducible.
 
-Thank you for taking the time to complete this section of the course. If you need additional help and support with your own applications please contact the [Office for Open Research](https://www.openresearch.manchester.ac.uk/contact/){target="_blank"} for support.
+Thank you for taking the time to complete this section of the course. If you need additional help and support with your own applications please contact the Office for Open Research for support.
 
 ### **What’s next?**
 
@@ -118,21 +118,13 @@ Complete further sections
 
 -   Section 4 - Assessing people using metrics - Section 4 is an optional part of this course for people who will take part in the assessment of people such as those on recruitment panels
 
-Read the [University responsible metrics policy](https://documents.manchester.ac.uk/DocuInfo.aspx?DocID=75142){target="_blank"}
+Read the [University responsible metrics policy](https://documents.manchester.ac.uk/DocuInfo.aspx?DocID=75142)
 
-Visit our [Research Indicators](https://www.openresearch.manchester.ac.uk/research-services/research-indicators/){target="_blank"}
+Visit our [Research Indicators](https://www.openresearch.manchester.ac.uk/research-services/research-indicators/)
 
-Specific question? Contact us at patrick.parkinson\@manchester.ac.uk
-
-### Test Your Knowledge
-
-<div class="quiz" data-quiz="quizzes/test_your_knowledge.json"></div>
-
-<noscript>
-<p>This quiz requires JavaScript. For an alternative, please contact us at patrick.parkinson@manchester.ac.uk</p>
-</noscript>
+Specific question? Contact us at patrick.parkinson@manchester.ac.uk
 
 Further Resources external to the University:
 
--   Deakin Library Metrics Toolkit: [https://deakin.libguides.com/research-metrics/about](https://deakin.libguides.com/research-metrics/about){target="_blank"}
--   What are Responsible Metrics by University of Exeter (4 minute Youtube video): [https://www.youtube.com/watch?v=kTYb623Slg4](https://www.youtube.com/watch?v=kTYb623Slg4){target="_blank"}
+-   Deakin Library Metrics Toolkit: https://deakin.libguides.com/research-metrics/about
+-   What are Responsible Metrics by University of Exeter (4 minute Youtube video): https://www.youtube.com/watch?v=kTYb623Slg4
